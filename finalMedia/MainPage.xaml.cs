@@ -24,7 +24,7 @@ namespace finalMedia
     {
         public MainPage()
         {
-            this.InitializeComponent();
+            this.InitializeComponent();//你好
         }
     }
 }
